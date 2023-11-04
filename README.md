@@ -1,3 +1,9 @@
+# live-link : https://rick-n-mortal-dvk91h4ak-rajnish-kumars-projects-5f8487f8.vercel.app/  <br>
+#Preview
+![Screenshot (126)](https://github.com/redoxrj/Rick_n_Mortal-react-app/assets/140983045/b5e6502d-fd34-416f-8d98-7a86e86185b1)
+![FireShot Capture 005 - Refren - Rick   Morty_ - rick-n-mortal-dvk91h4ak-rajnish-kumars-projects-5f8487f8 vercel app](https://github.com/redoxrj/Rick_n_Mortal-react-app/assets/140983045/1e3445df-9cfd-4c61-8f17-92e41d485ffd)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
